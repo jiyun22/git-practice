@@ -257,3 +257,6 @@ def anlyUsekwh(data, info_costn, custinfo): # anlyUsekwh 함수 정의 (인자: 
     return anlyUsekWh, usekWhStats, Anormaly, centerClust, countClust, centerGuide
     # anlyUsekWh 함수에서 anlyUsekWh, usekWhStats, Anormaly, centerClust, countClust, centerGuide 값을 반환
 
+
+
+# 수정했을때
